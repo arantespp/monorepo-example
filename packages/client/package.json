@@ -9,7 +9,5 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"devDependencies": {
-		"typescript": "^3.6.3"
-	}
+	"devDependencies": {}
 }
