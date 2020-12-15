@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.11.0](https://github.com/arantespp/monorepo-example/compare/v1.0.5...v0.11.0) (2020-12-15)
+
+### Features
+
+- remove independent version ([6d9f133](https://github.com/arantespp/monorepo-example/commit/6d9f133))
+
 ## 1.0.5 (2020-12-15)
 
 ### Features
