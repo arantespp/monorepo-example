@@ -1,5 +1,6 @@
 {
 	"ignoreChanges": ["**/*.md", "**/package.json"],
+	"allowBranch": ["main"],
 	"npmClient": "yarn",
 	"useWorkspaces": true,
 	"version": "independent"
